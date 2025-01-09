@@ -1,0 +1,38 @@
+---
+canvas: "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/canvas/manmio00010001004300040033-1"
+order: 11
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "soggiorno cucina",
+            "purpose": "describing",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-09T09:58:51.861Z",
+            "modified": "2025-01-09T09:58:59.609Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/canvas/manmio00010001004300040033-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1180.417236328125,1529.818359375,1712.422607421875,793.314208984375"
+        }
+    },
+    "id": "d1a5050d-8c21-426e-87dc-3855fe67ef61.json",
+    "motivation": "commenting"
+}
