@@ -50,15 +50,36 @@ order: 7
             "value": "quota facciata nord"
         },
         {
-            "type": "TextualBody",
-            "value": "quota di progettazione",
-            "purpose": "tagging",
+            "created": "2025-01-09T09:46:22.367Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T09:46:22.367Z",
-            "modified": "2025-01-09T09:46:25.243Z"
+            "modified": "2025-01-09T09:46:25.243Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "quota di progettazione"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "edificio",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-09T09:47:37.131Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/Length",
+            "purpose": "linking",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-09T09:56:25.427Z",
+            "modified": "2025-01-09T09:56:26.951Z"
         }
     ],
     "id": "82e0570a-fd70-46c0-9882-8b283093769c.json",
