@@ -1,0 +1,49 @@
+---
+canvas: "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-1"
+order: 11
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "piano terra",
+            "purpose": "classifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-09T13:37:41.538Z",
+            "modified": "2025-01-09T13:37:50.440Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "piano terra",
+            "purpose": "tagging",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-09T13:38:38.863Z",
+            "modified": "2025-01-09T13:38:40.508Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=786.8035278320312,302.31158447265625,2661.9650268554688,2359.6535034179688"
+        }
+    },
+    "id": "2657c605-3d99-404e-89e9-7e5053801c6d.json",
+    "motivation": "commenting"
+}
