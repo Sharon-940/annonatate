@@ -31,6 +31,11 @@ order: 11
     "id": "2657c605-3d99-404e-89e9-7e5053801c6d.json",
     "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=785.8070068359375,318.06719970703125,2658.6341552734375,2373.1583862304688"
+        },
         "source": {
             "partOf": {
                 "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manifest.json",
@@ -38,11 +43,6 @@ order: 11
             },
             "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=785.8070068359375,318.06719970703125,2658.6341552734375,2373.1583862304688"
         }
     },
     "type": "Annotation"
