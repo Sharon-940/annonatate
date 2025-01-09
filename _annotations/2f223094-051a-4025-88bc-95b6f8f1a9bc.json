@@ -17,15 +17,26 @@ order: 7
             "value": "camera matrimoniale"
         },
         {
+            "created": "2025-01-09T13:33:39.070Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "modified": "2025-01-09T13:33:43.427Z",
+            "purpose": "tagging",
             "type": "TextualBody",
-            "value": "cameraDaLetto",
+            "value": "cameraDaLetto"
+        },
+        {
+            "type": "TextualBody",
+            "value": "room",
             "purpose": "tagging",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T13:33:39.070Z",
-            "modified": "2025-01-09T13:33:43.427Z"
+            "created": "2025-01-09T13:34:04.977Z",
+            "modified": "2025-01-09T13:34:05.528Z"
         }
     ],
     "id": "2f223094-051a-4025-88bc-95b6f8f1a9bc.json",
