@@ -61,25 +61,36 @@ order: 7
             "value": "quota di progettazione"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "edificio",
+            "created": "2025-01-09T09:47:37.131Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T09:47:37.131Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "edificio"
+        },
+        {
+            "created": "2025-01-09T09:56:25.427Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "modified": "2025-01-09T09:56:26.951Z",
+            "purpose": "linking",
+            "type": "TextualBody",
+            "value": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/Length"
         },
         {
             "type": "TextualBody",
-            "value": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/Length",
+            "value": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcWall",
             "purpose": "linking",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T09:56:25.427Z",
-            "modified": "2025-01-09T09:56:26.951Z"
+            "created": "2025-01-09T09:56:53.389Z",
+            "modified": "2025-01-09T09:56:54.743Z"
         }
     ],
     "id": "82e0570a-fd70-46c0-9882-8b283093769c.json",
