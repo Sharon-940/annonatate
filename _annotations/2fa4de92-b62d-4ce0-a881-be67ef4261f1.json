@@ -1,0 +1,38 @@
+---
+canvas: "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/canvas/manmio00010001004300040033-1"
+order: 8
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "camera matrimoniale",
+            "purpose": "describing",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-09T09:57:36.350Z",
+            "modified": "2025-01-09T09:57:43.359Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/canvas/manmio00010001004300040033-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1166.2147216796875,766.9381103515625,850.1243896484375,803.458984375"
+        }
+    },
+    "id": "2fa4de92-b62d-4ce0-a881-be67ef4261f1.json",
+    "motivation": "commenting"
+}
