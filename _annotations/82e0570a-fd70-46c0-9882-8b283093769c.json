@@ -28,26 +28,37 @@ order: 7
             "value": "quota"
         },
         {
+            "created": "2025-01-09T09:27:42.079Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "modified": "2025-01-09T09:27:46.929Z",
+            "purpose": "tagging",
             "type": "TextualBody",
-            "value": "quota di larghezza",
+            "value": "quota di larghezza"
+        },
+        {
+            "created": "2025-01-09T09:28:27.689Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "modified": "2025-01-09T09:44:09.048Z",
+            "purpose": "describing",
+            "type": "TextualBody",
+            "value": "quota facciata nord"
+        },
+        {
+            "type": "TextualBody",
+            "value": "quota di progettazione",
             "purpose": "tagging",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T09:27:42.079Z",
-            "modified": "2025-01-09T09:27:46.929Z"
-        },
-        {
-            "type": "TextualBody",
-            "value": "quota facciata nord",
-            "purpose": "describing",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "created": "2025-01-09T09:28:27.689Z",
-            "modified": "2025-01-09T09:44:09.048Z"
+            "created": "2025-01-09T09:46:22.367Z",
+            "modified": "2025-01-09T09:46:25.243Z"
         }
     ],
     "id": "82e0570a-fd70-46c0-9882-8b283093769c.json",
