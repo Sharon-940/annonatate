@@ -29,13 +29,14 @@ order: 8
         },
         {
             "type": "TextualBody",
+            "value": "room",
             "purpose": "tagging",
-            "value": "Room",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T13:33:59.339Z"
+            "created": "2025-01-09T13:34:09.566Z",
+            "modified": "2025-01-09T13:34:10.049Z"
         }
     ],
     "id": "0b0ff660-d27b-4bbd-b7b1-13ccca21e8e2.json",
