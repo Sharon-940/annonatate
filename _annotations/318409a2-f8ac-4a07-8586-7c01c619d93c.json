@@ -17,45 +17,35 @@ order: 6
             "value": "780"
         },
         {
-            "type": "TextualBody",
-            "value": "780",
-            "purpose": "identifying",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
             "created": "2025-01-09T13:30:52.416Z",
-            "modified": "2025-01-09T13:30:56.455Z"
-        },
-        {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "quota",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T13:30:59.855Z"
+            "modified": "2025-01-09T13:30:56.455Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "780"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "quota di larghezza",
+            "created": "2025-01-09T13:30:59.855Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T13:31:02.657Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "quota"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "quotaPlanimetrica",
+            "created": "2025-01-09T13:31:12.642Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T13:31:12.642Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "quotaPlanimetrica"
         }
     ],
     "id": "318409a2-f8ac-4a07-8586-7c01c619d93c.json",
