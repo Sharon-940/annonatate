@@ -4,21 +4,48 @@ order: 2
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "PIANTA",
-            "purpose": "supplementing",
+            "created": "2025-01-09T13:07:22.633Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T13:07:22.633Z",
-            "modified": "2025-01-09T13:07:26.233Z"
+            "modified": "2025-01-09T13:07:26.233Z",
+            "purpose": "supplementing",
+            "type": "TextualBody",
+            "value": "PIANTA"
+        },
+        {
+            "type": "TextualBody",
+            "value": "pianta ",
+            "purpose": "classifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-09T13:08:04.642Z",
+            "modified": "2025-01-09T13:08:14.570Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "pianta",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-09T13:08:21.131Z"
         }
     ],
+    "id": "3442e422-583a-49c0-93d1-1136e7d7f0e8.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=218.7012176513672,493.0316162109375,221.1540985107422,91.30218505859375"
+        },
         "source": {
             "partOf": {
                 "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manifest.json",
@@ -26,13 +53,7 @@ order: 2
             },
             "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=218.7012176513672,493.0316162109375,221.1540985107422,91.30218505859375"
         }
     },
-    "id": "3442e422-583a-49c0-93d1-1136e7d7f0e8.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
