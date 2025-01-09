@@ -4,50 +4,51 @@ order: 9
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "soggiorno cucina",
-            "purpose": "classifying",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
             "created": "2025-01-09T13:34:32.603Z",
-            "modified": "2025-01-09T13:34:38.096Z"
-        },
-        {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "room",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T13:34:45.735Z"
+            "modified": "2025-01-09T13:34:38.096Z",
+            "purpose": "classifying",
+            "type": "TextualBody",
+            "value": "soggiorno cucina"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "soggiorno",
+            "created": "2025-01-09T13:34:45.735Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T13:34:50.738Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "room"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "cucina",
+            "created": "2025-01-09T13:34:50.738Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T13:34:52.526Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "soggiorno"
+        },
+        {
+            "created": "2025-01-09T13:34:52.526Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "cucina"
         }
     ],
+    "id": "b016f276-ee4e-41a9-baca-e4943b480b55.json",
+    "motivation": "commenting",
     "target": {
         "source": {
             "partOf": {
@@ -60,9 +61,8 @@ order: 9
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1154.041015625,1558.223388671875,1765.175048828125,789.25634765625"
+            "value": "xywh=1064.74267578125,1490.7017822265625,1919.3740234375,929.2530517578125"
         }
     },
-    "id": "b016f276-ee4e-41a9-baca-e4943b480b55.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
