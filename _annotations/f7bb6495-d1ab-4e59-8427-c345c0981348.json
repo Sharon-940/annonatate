@@ -1,0 +1,49 @@
+---
+canvas: "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/canvas/manmio00010001004300040033-1"
+order: 6
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "localizzazione",
+            "purpose": "tagging",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-09T09:22:12.016Z",
+            "modified": "2025-01-09T09:22:14.176Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Padova",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-09T09:22:17.112Z",
+            "modified": "2025-01-09T09:22:20.736Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/canvas/manmio00010001004300040033-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=190.2960968017578,645.201904296875,328.68772888183594,60.86810302734375"
+        }
+    },
+    "id": "f7bb6495-d1ab-4e59-8427-c345c0981348.json",
+    "motivation": "commenting"
+}
