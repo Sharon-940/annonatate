@@ -28,26 +28,26 @@ order: 4
             "value": "Arch. F. Mansutti G. Miozzo "
         },
         {
-            "type": "TextualBody",
-            "value": "autore",
-            "purpose": "tagging",
+            "created": "2025-01-09T09:19:28.673Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T09:19:28.673Z",
-            "modified": "2025-01-09T09:19:29.256Z"
+            "modified": "2025-01-09T09:19:29.256Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "autore"
         },
         {
-            "type": "TextualBody",
-            "value": "http://www.semanticweb.org/sharo/ontologies/2024/11/OntologiaStudiArchitettoniciPostbellici#Arch._F._Mansutti_G._Miozzo",
-            "purpose": "identifying",
+            "created": "2025-01-09T09:19:35.229Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T09:19:35.229Z",
-            "modified": "2025-01-09T09:19:40.577Z"
+            "modified": "2025-01-09T09:44:32.735Z",
+            "purpose": "linking",
+            "type": "TextualBody",
+            "value": "http://www.semanticweb.org/sharo/ontologies/2024/11/OntologiaStudiArchitettoniciPostbellici#Arch._F._Mansutti_G._Miozzo"
         }
     ],
     "id": "166ee24a-3448-4822-bf61-7854f51eed8b.json",
