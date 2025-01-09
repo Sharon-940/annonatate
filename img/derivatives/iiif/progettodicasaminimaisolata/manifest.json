@@ -1,0 +1,252 @@
+---
+added: 2025-01-09 12&#58;11&#58;28.913172
+thumbnail: https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manmio00010001004300040033/full/122,/0/default.jpg
+title: Progetto di casa minima isolata
+user: Sharon-940
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "it": [
+      "Progetto di casa minima isolata"
+    ]
+  },
+  "summary": {
+    "it": [
+      "Progetto di casa minima isolata"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-1",
+      "type": "Canvas",
+      "label": {
+        "it": [
+          "man_-mio_0001_0001_0043_0004_0033"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manmio00010001004300040033/full/122,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 3015,
+      "width": 3915,
+      "items": [
+        {
+          "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manmio00010001004300040033/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3015,
+                "width": 3915,
+                "service": [
+                  {
+                    "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manmio00010001004300040033",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-2",
+      "type": "Canvas",
+      "label": {
+        "it": [
+          "man_-mio_0001_0001_0043_0004_0034"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manmio00010001004300040034/full/122,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 3015,
+      "width": 3915,
+      "items": [
+        {
+          "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/annotation/p0002-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manmio00010001004300040034/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3015,
+                "width": 3915,
+                "service": [
+                  {
+                    "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manmio00010001004300040034",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-3",
+      "type": "Canvas",
+      "label": {
+        "it": [
+          "man_-mio_0001_0001_0043_0004_0035-0001"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manmio000100010043000400350001/full/161,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 3645,
+      "width": 5152,
+      "items": [
+        {
+          "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/page/p3/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/annotation/p0003-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manmio000100010043000400350001/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3645,
+                "width": 5152,
+                "service": [
+                  {
+                    "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manmio000100010043000400350001",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-4",
+      "type": "Canvas",
+      "label": {
+        "it": [
+          "man_-mio_0001_0001_0043_0004_0035-0002"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manmio000100010043000400350002/full/161,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 3645,
+      "width": 5152,
+      "items": [
+        {
+          "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/page/p4/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/annotation/p0004-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manmio000100010043000400350002/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3645,
+                "width": 5152,
+                "service": [
+                  {
+                    "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manmio000100010043000400350002",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-5",
+      "type": "Canvas",
+      "label": {
+        "it": [
+          "man_-mio_0001_0001_0043_0004_0036"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manmio00010001004300040036/full/137,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 3652,
+      "width": 4398,
+      "items": [
+        {
+          "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/page/p5/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/annotation/p0005-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manmio00010001004300040036/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3652,
+                "width": 4398,
+                "service": [
+                  {
+                    "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manmio00010001004300040036",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata//manmio000100010043000400350001",
+  "height": 3645,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 228,
+      "width": 322
+    },
+    {
+      "height": 114,
+      "width": 161
+    },
+    {
+      "height": 57,
+      "width": 81
+    },
+    {
+      "height": 28,
+      "width": 40
+    },
+    {
+      "height": 14,
+      "width": 20
+    },
+    {
+      "height": 7,
+      "width": 10
+    },
+    {
+      "height": 4,
+      "width": 5
+    },
+    {
+      "height": 2,
+      "width": 3
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 512
+    }
+  ],
+  "width": 5152
+}
