@@ -28,25 +28,20 @@ order: 7
             "value": "cameraDaLetto"
         },
         {
-            "type": "TextualBody",
-            "value": "room",
-            "purpose": "tagging",
+            "created": "2025-01-09T13:34:04.977Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T13:34:04.977Z",
-            "modified": "2025-01-09T13:34:05.528Z"
+            "modified": "2025-01-09T13:34:05.528Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "room"
         }
     ],
     "id": "2f223094-051a-4025-88bc-95b6f8f1a9bc.json",
     "motivation": "commenting",
     "target": {
-        "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "type": "FragmentSelector",
-            "value": "xywh=1164.185791015625,775.0538330078125,856.2113037109375,803.458984375"
-        },
         "source": {
             "partOf": {
                 "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manifest.json",
@@ -54,6 +49,11 @@ order: 7
             },
             "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-1",
             "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1076.916259765625,662.8955688476562,953.6002197265625,917.0794067382812"
         }
     },
     "type": "Annotation"
