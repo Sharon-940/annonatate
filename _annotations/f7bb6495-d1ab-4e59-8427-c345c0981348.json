@@ -4,32 +4,49 @@ order: 6
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "localizzazione",
-            "purpose": "tagging",
+            "created": "2025-01-09T09:22:12.016Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T09:22:12.016Z",
-            "modified": "2025-01-09T09:22:14.176Z"
+            "modified": "2025-01-09T09:22:14.176Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "localizzazione"
+        },
+        {
+            "created": "2025-01-09T09:22:17.112Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "modified": "2025-01-09T09:22:20.736Z",
+            "purpose": "supplementing",
+            "type": "TextualBody",
+            "value": "Padova"
         },
         {
             "type": "TextualBody",
             "value": "Padova",
-            "purpose": "supplementing",
+            "purpose": "classifying",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T09:22:17.112Z",
-            "modified": "2025-01-09T09:22:20.736Z"
+            "created": "2025-01-09T09:22:41.656Z",
+            "modified": "2025-01-09T09:22:56.079Z"
         }
     ],
+    "id": "f7bb6495-d1ab-4e59-8427-c345c0981348.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=190.2960968017578,645.201904296875,328.68772888183594,60.86810302734375"
+        },
         "source": {
             "partOf": {
                 "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/manifest.json",
@@ -37,13 +54,7 @@ order: 6
             },
             "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/canvas/manmio00010001004300040033-1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=190.2960968017578,645.201904296875,328.68772888183594,60.86810302734375"
         }
     },
-    "id": "f7bb6495-d1ab-4e59-8427-c345c0981348.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
