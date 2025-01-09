@@ -39,15 +39,15 @@ order: 7
             "value": "room"
         },
         {
-            "type": "TextualBody",
-            "value": "https://identifier.buildingsmart.org/uri/fish/midas-components/26/class/BEDROOM",
-            "purpose": "linking",
+            "created": "2025-01-09T13:47:51.319Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T13:47:51.319Z",
-            "modified": "2025-01-09T13:47:54.191Z"
+            "modified": "2025-01-09T13:49:02.311Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "https://identifier.buildingsmart.org/uri/fish/midas-components/26/class/BEDROOM"
         }
     ],
     "id": "2f223094-051a-4025-88bc-95b6f8f1a9bc.json",
