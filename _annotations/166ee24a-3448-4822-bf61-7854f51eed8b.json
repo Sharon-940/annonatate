@@ -1,0 +1,49 @@
+---
+canvas: "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/canvas/manmio00010001004300040033-1"
+order: 4
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "progettista",
+            "purpose": "tagging",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-09T09:09:03.680Z",
+            "modified": "2025-01-09T09:09:05.603Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Arch. F. Mansutti G. Miozzo ",
+            "purpose": "supplementing",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-09T09:09:14.465Z",
+            "modified": "2025-01-09T09:19:11.529Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/canvas/manmio00010001004300040033-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=188.2671661376953,598.5363159179688,862.2981414794922,58.83917236328125"
+        }
+    },
+    "id": "166ee24a-3448-4822-bf61-7854f51eed8b.json",
+    "motivation": "commenting"
+}
