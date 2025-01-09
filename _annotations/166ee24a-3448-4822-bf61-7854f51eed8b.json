@@ -4,32 +4,60 @@ order: 4
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
+            "created": "2025-01-09T09:09:03.680Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "modified": "2025-01-09T09:09:05.603Z",
+            "purpose": "tagging",
             "type": "TextualBody",
-            "value": "progettista",
+            "value": "progettista"
+        },
+        {
+            "created": "2025-01-09T09:09:14.465Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "modified": "2025-01-09T09:19:11.529Z",
+            "purpose": "supplementing",
+            "type": "TextualBody",
+            "value": "Arch. F. Mansutti G. Miozzo "
+        },
+        {
+            "type": "TextualBody",
+            "value": "autore",
             "purpose": "tagging",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T09:09:03.680Z",
-            "modified": "2025-01-09T09:09:05.603Z"
+            "created": "2025-01-09T09:19:28.673Z",
+            "modified": "2025-01-09T09:19:29.256Z"
         },
         {
             "type": "TextualBody",
-            "value": "Arch. F. Mansutti G. Miozzo ",
-            "purpose": "supplementing",
+            "value": "http://www.semanticweb.org/sharo/ontologies/2024/11/OntologiaStudiArchitettoniciPostbellici#Arch._F._Mansutti_G._Miozzo",
+            "purpose": "identifying",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T09:09:14.465Z",
-            "modified": "2025-01-09T09:19:11.529Z"
+            "created": "2025-01-09T09:19:35.229Z",
+            "modified": "2025-01-09T09:19:40.577Z"
         }
     ],
+    "id": "166ee24a-3448-4822-bf61-7854f51eed8b.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=188.2671661376953,598.5363159179688,862.2981414794922,58.83917236328125"
+        },
         "source": {
             "partOf": {
                 "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/manifest.json",
@@ -37,13 +65,7 @@ order: 4
             },
             "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/canvas/manmio00010001004300040033-1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=188.2671661376953,598.5363159179688,862.2981414794922,58.83917236328125"
         }
     },
-    "id": "166ee24a-3448-4822-bf61-7854f51eed8b.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
