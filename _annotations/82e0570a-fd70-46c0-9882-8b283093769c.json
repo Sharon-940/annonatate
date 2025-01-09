@@ -4,32 +4,60 @@ order: 7
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "780",
-            "purpose": "supplementing",
+            "created": "2025-01-09T09:23:47.030Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T09:23:47.030Z",
-            "modified": "2025-01-09T09:23:50.321Z"
+            "modified": "2025-01-09T09:23:50.321Z",
+            "purpose": "supplementing",
+            "type": "TextualBody",
+            "value": "780"
+        },
+        {
+            "created": "2025-01-09T09:23:54.565Z",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "modified": "2025-01-09T09:23:55.127Z",
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "quota"
         },
         {
             "type": "TextualBody",
-            "value": "quota",
+            "value": "quota di larghezza",
             "purpose": "tagging",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T09:23:54.565Z",
-            "modified": "2025-01-09T09:23:55.127Z"
+            "created": "2025-01-09T09:27:42.079Z",
+            "modified": "2025-01-09T09:27:46.929Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "quota facciata nord",
+            "purpose": "describing",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-09T09:28:27.689Z",
+            "modified": "2025-01-09T09:44:09.048Z"
         }
     ],
+    "id": "82e0570a-fd70-46c0-9882-8b283093769c.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1884.458251953125,338.8324279785156,178.54638671875,87.24429321289062"
+        },
         "source": {
             "partOf": {
                 "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/manifest.json",
@@ -37,13 +65,7 @@ order: 7
             },
             "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033/canvas/manmio00010001004300040033-1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1884.458251953125,338.8324279785156,178.54638671875,87.24429321289062"
         }
     },
-    "id": "82e0570a-fd70-46c0-9882-8b283093769c.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
