@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/manmio00010001004300040033//manmio00010001004300040033",
+  "height": 3015,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 377,
+      "width": 489
+    },
+    {
+      "height": 188,
+      "width": 245
+    },
+    {
+      "height": 94,
+      "width": 122
+    },
+    {
+      "height": 47,
+      "width": 61
+    },
+    {
+      "height": 24,
+      "width": 31
+    },
+    {
+      "height": 12,
+      "width": 15
+    },
+    {
+      "height": 6,
+      "width": 8
+    },
+    {
+      "height": 3,
+      "width": 4
+    },
+    {
+      "height": 1,
+      "width": 2
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4
+      ],
+      "width": 512
+    }
+  ],
+  "width": 3915
+}
