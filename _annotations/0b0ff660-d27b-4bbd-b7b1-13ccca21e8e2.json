@@ -37,11 +37,27 @@ order: 8
             "purpose": "tagging",
             "type": "TextualBody",
             "value": "room"
+        },
+        {
+            "type": "TextualBody",
+            "value": "https://identifier.buildingsmart.org/uri/fish/midas-components/26/class/BEDROOM",
+            "purpose": "identifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-09T13:48:46.126Z",
+            "modified": "2025-01-09T13:48:52.927Z"
         }
     ],
     "id": "0b0ff660-d27b-4bbd-b7b1-13ccca21e8e2.json",
     "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1939.2396240234375,488.4070129394531,1341.1019287109375,895.3278503417969"
+        },
         "source": {
             "partOf": {
                 "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manifest.json",
@@ -49,11 +65,6 @@ order: 8
             },
             "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-1",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1939.2396240234375,488.4070129394531,1341.1019287109375,895.3278503417969"
         }
     },
     "type": "Annotation"
