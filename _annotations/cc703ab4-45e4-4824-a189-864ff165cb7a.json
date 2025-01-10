@@ -4,21 +4,38 @@ order: 7
 ---
 {
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "type": "Annotation",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcWindow",
-            "purpose": "identifying",
+            "created": "2025-01-10T12:04:14.254Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-10T12:04:14.254Z",
-            "modified": "2025-01-10T12:04:18.319Z"
+            "modified": "2025-01-10T12:04:18.319Z",
+            "purpose": "identifying",
+            "type": "TextualBody",
+            "value": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcWindow"
+        },
+        {
+            "type": "TextualBody",
+            "value": "URI della finestra specifica della casa minima isolata ",
+            "purpose": "linking",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-10T12:09:02.756Z",
+            "modified": "2025-01-10T12:09:41.909Z"
         }
     ],
+    "id": "cc703ab4-45e4-4824-a189-864ff165cb7a.json",
+    "motivation": "commenting",
     "target": {
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=1111.4333801269531,1558.223388671875,442.3081970214844,342.8902587890625"
+        },
         "source": {
             "partOf": {
                 "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manifest.json",
@@ -26,13 +43,7 @@ order: 7
             },
             "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-2",
             "type": "Canvas"
-        },
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=1111.4333801269531,1558.223388671875,442.3081970214844,342.8902587890625"
         }
     },
-    "id": "cc703ab4-45e4-4824-a189-864ff165cb7a.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
