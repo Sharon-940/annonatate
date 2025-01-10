@@ -1,0 +1,38 @@
+---
+canvas: "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-2"
+order: 12
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcWall",
+            "purpose": "identifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-10T12:08:20.007Z",
+            "modified": "2025-01-10T12:08:22.743Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://sharon-940.github.io/annonatate/img/derivatives/iiif/progettodicasaminimaisolata/canvas/progettodicasaminimaisolata-2",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=949.1184692382812,815.632568359375,2065.4574584960938,1381.705810546875"
+        }
+    },
+    "id": "7196a8e9-e2dd-4673-8ac1-3cc9d73049a9.json",
+    "motivation": "commenting"
+}
