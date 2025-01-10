@@ -38,15 +38,15 @@ order: 1
             "value": "F_Preliminare"
         },
         {
-            "type": "TextualBody",
-            "value": "Tag associati D (disciplina), F (fase, livello di progettazione)",
-            "purpose": "replying",
+            "created": "2025-01-10T12:21:48.075Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-10T12:21:48.075Z",
-            "modified": "2025-01-10T12:22:18.118Z"
+            "modified": "2025-01-10T12:23:42.842Z",
+            "purpose": "replying",
+            "type": "TextualBody",
+            "value": "Tag associati D (disciplina), F (fase, livello di progettazione) \nassociati all'annotazione del titolo perch\u00e9 dedotti da questi. Associare tag contenti informazioni dedotte alle annotazioni pertinenti."
         }
     ],
     "id": "ac391015-7abc-46df-96e1-7b7ea4cbfeeb.json",
