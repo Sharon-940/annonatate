@@ -17,15 +17,26 @@ order: 7
             "value": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcWindow"
         },
         {
-            "type": "TextualBody",
-            "value": "URI della finestra specifica della casa minima isolata ",
-            "purpose": "linking",
+            "created": "2025-01-10T12:09:02.756Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-10T12:09:02.756Z",
-            "modified": "2025-01-10T12:09:41.909Z"
+            "modified": "2025-01-10T12:09:41.909Z",
+            "purpose": "linking",
+            "type": "TextualBody",
+            "value": "URI della finestra specifica della casa minima isolata "
+        },
+        {
+            "type": "TextualBody",
+            "value": "GUID della finestra specifica della casa minima isolata",
+            "purpose": "identifying",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-01-10T12:09:52.440Z",
+            "modified": "2025-01-10T12:10:10.319Z"
         }
     ],
     "id": "cc703ab4-45e4-4824-a189-864ff165cb7a.json",
