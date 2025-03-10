@@ -17,24 +17,25 @@ order: 4
             "value": "ARCH. F. MANSUTTI G. MIOZZO PADOVA"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "StudioDiArchitettura",
+            "created": "2025-01-09T13:14:45.974Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T13:13:05.281Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "http://www.semanticweb.org/sharo/ontologies/2024/11/OntologiaStudiArchitettoniciPostbellici#Arch._F._Mansutti_G._Miozzo_Padova"
         },
         {
             "type": "TextualBody",
-            "value": "http://www.semanticweb.org/sharo/ontologies/2024/11/OntologiaStudiArchitettoniciPostbellici#Arch._F._Mansutti_G._Miozzo_Padova",
-            "purpose": "commenting",
+            "value": "studio_di_architettura",
+            "purpose": "tagging",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T13:14:45.974Z"
+            "created": "2025-03-10T14:46:08.197Z",
+            "modified": "2025-03-10T14:46:13.385Z"
         }
     ],
     "id": "49e258b9-d3e0-4d2f-ba00-783c271c3dec.json",
