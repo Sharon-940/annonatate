@@ -17,25 +17,26 @@ order: 3
             "value": "RAPPORTO 1:50"
         },
         {
-            "type": "TextualBody",
-            "value": "1:50",
-            "purpose": "classifying",
+            "created": "2025-01-09T13:09:34.171Z",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T13:09:34.171Z",
-            "modified": "2025-01-09T13:09:51.481Z"
+            "modified": "2025-01-09T13:09:51.481Z",
+            "purpose": "classifying",
+            "type": "TextualBody",
+            "value": "1:50"
         },
         {
             "type": "TextualBody",
+            "value": "scala",
             "purpose": "tagging",
-            "value": "scalaDiDisegno",
             "creator": {
                 "id": "Sharon-940",
                 "name": "Sharon-940"
             },
-            "created": "2025-01-09T13:09:58.221Z"
+            "created": "2025-03-10T14:47:21.729Z",
+            "modified": "2025-03-10T14:47:25.508Z"
         }
     ],
     "id": "266c3623-5b40-40bb-964f-3bd3f702dc26.json",
