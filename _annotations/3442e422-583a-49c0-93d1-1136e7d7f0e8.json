@@ -15,27 +15,6 @@ order: 2
             "purpose": "supplementing",
             "type": "TextualBody",
             "value": "PIANTA"
-        },
-        {
-            "type": "TextualBody",
-            "value": "pianta ",
-            "purpose": "classifying",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "created": "2025-01-09T13:08:04.642Z",
-            "modified": "2025-01-09T13:08:14.570Z"
-        },
-        {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "pianta",
-            "creator": {
-                "id": "Sharon-940",
-                "name": "Sharon-940"
-            },
-            "created": "2025-01-09T13:08:21.131Z"
         }
     ],
     "id": "3442e422-583a-49c0-93d1-1136e7d7f0e8.json",
