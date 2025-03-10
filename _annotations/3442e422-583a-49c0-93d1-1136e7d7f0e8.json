@@ -15,6 +15,17 @@ order: 2
             "purpose": "supplementing",
             "type": "TextualBody",
             "value": "PIANTA"
+        },
+        {
+            "type": "TextualBody",
+            "value": "contenuto_elaborato",
+            "purpose": "tagging",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-03-10T14:47:09.873Z",
+            "modified": "2025-03-10T14:47:14.743Z"
         }
     ],
     "id": "3442e422-583a-49c0-93d1-1136e7d7f0e8.json",
