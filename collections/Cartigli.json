@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Cartigli",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://sharon-940.github.io/annonatate/annotations/sharon-940-github-io-progettodicasaminimaisolata-1-list.json'></iiif-storyboard>",
+            "title": "cartiglio",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
