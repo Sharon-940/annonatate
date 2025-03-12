@@ -3,5 +3,12 @@
 {
     "label": "Cartigli",
     "type": "storyboardlist",
-    "items": []
+    "items": [
+        {
+            "board": "<iiif-annotation annotationurl='https://sharon-940.github.io/annonatate/annotations/2-man-mio-0001-0001-0046-0002-0005-2fman-mio-0001-0001-0046-0002-0005-jpg-list.json'></iiif-annotation>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
 }
