@@ -1,4 +1,10 @@
 images:
+- added: '2025-03-12 14:23:46.972557'
+  iiif: true
+  thumbnail: https://iiif.archive.org/image/iiif/2/man-mio-0001-0001-0046-0002-0005%2fMan_-Mio_0001_0001_0046_0002_0005.jpg/full/120,/0/default.jpg
+  title: ''
+  url: https://iiif.archive.org/image/iiif/2/man-mio-0001-0001-0046-0002-0005%2fMan_-Mio_0001_0001_0046_0002_0005.jpg/info.json
+  user: Sharon-940
 - added: '2025-03-11 18:25:26.333751'
   iiif: true
   thumbnail: https://iiif.archive.org/image/iiif/3/test-ire-images%2FTestIRE_jp2.zip%2FTestIRE_jp2%2FTestIRE_0000.jp2/full/max/0/default.jpg
