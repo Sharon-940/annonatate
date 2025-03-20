@@ -1,0 +1,44 @@
+---
+canvas: "https://iiif.archive.org/image/iiif/2/man_-mio_0001_0001_0046_0009_0005_202503%2fman_-mio_0001_0001_0046_0009_0005.jpg/full/512,/0/default.jpg"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Test",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-03-20T13:36:58.617Z",
+            "modified": "2025-03-20T13:36:59.309Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "cartiglio",
+            "creator": {
+                "id": "Sharon-940",
+                "name": "Sharon-940"
+            },
+            "created": "2025-03-20T13:37:03.180Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://iiif.archive.org/image/iiif/2/man_-mio_0001_0001_0046_0009_0005_202503%2fman_-mio_0001_0001_0046_0009_0005.jpg/full/512,/0/default.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=0,582.7820434570312,508.7272644042969,52.272705078125"
+        }
+    },
+    "id": "688e5101-c8dd-42bb-a7d4-366fd763c21e.json",
+    "motivation": "commenting"
+}
