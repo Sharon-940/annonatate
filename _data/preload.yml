@@ -1,4 +1,10 @@
 images:
+- added: '2025-03-20 13:36:03.240631'
+  iiif: false
+  thumbnail: https://iiif.archive.org/image/iiif/2/man_-mio_0001_0001_0046_0009_0005_202503%2fman_-mio_0001_0001_0046_0009_0005.jpg/full/512,/0/default.jpg
+  title: ''
+  url: https://iiif.archive.org/image/iiif/2/man_-mio_0001_0001_0046_0009_0005_202503%2fman_-mio_0001_0001_0046_0009_0005.jpg/full/512,/0/default.jpg
+  user: Sharon-940
 - added: '2025-03-20 11:53:07.403012'
   iiif: true
   thumbnail: https://iiif.archive.org/image/iiif/2/man_-mio_0001_0001_0046_0009_0005_202503%2fman_-mio_0001_0001_0046_0009_0005.jpg/full/120,/0/default.jpg
